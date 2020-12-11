@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "54ff8dee333d9809ab3b92890bd62c4ba07ee9032dae28cf68db4fcd2000df60"
+            "sha256": "3600a4235e684730f37de08e7fbb51dbc7c5ede718344ea3f099010a4cd6fa92"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -38,6 +38,13 @@
             ],
             "markers": "python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==0.10.0"
+        },
+        "pyboto3": {
+            "hashes": [
+                "sha256:98b8802f88c08b546f890702dc384087264a559e7755552fc1f32fb42fdf3ab8"
+            ],
+            "index": "pypi",
+            "version": "==1.13.18"
         },
         "python-dateutil": {
             "hashes": [
